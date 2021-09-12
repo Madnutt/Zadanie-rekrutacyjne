@@ -1,0 +1,22 @@
+.forms-wrapper {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.forms-wrapper > .row {
+    width: 90%;
+}
+
+.forms-wrapper form {
+    margin-top: 50px;
+}
+
+button[type="submit"] {
+    float: right;
+}
+
+.welcome {
+    width: 30%;
+    margin-top: 50px;
+}
